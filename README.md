@@ -1,4 +1,4 @@
-# Mini Client Dashboard (WellnessZ)
+# Client Dashboard (WellnessZ)
 
 A modern, responsive client dashboard built with React.js and Tailwind CSS. Designed with a focus on "human" aesthetics, clean typography, and a seamless user experience.
 
