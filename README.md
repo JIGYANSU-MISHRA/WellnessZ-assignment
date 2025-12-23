@@ -21,7 +21,7 @@ A modern, responsive client dashboard built with React.js and Tailwind CSS. Desi
 ## Tech Stack
 
 - **Framework**: React (Vite)
-- **Styling**: Tailwind CSS (Custom "Human" Palette - Mango/Stone)
+- **Styling**: Tailwind CSS 
 - **Font**: Outfit (Clean, modern sans-serif)
 - **Icons**: Lucide React
 - **HTTP Client**: Axios
